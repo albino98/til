@@ -33,7 +33,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### .NET
 
-- [Start .net core microservices locally](dot-net/start-microservices-locally.md)
+- [Start .net core microservices locally - Connect process to Visual Studio debug](dot-net/start-microservices-locally.md)
 
 ## License
 
