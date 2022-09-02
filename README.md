@@ -12,7 +12,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 * [Linux](#linux)
 * [Sql Server](#sql-server)
 * [Oracle](#oracle)
-* [.NET](#net)
+* [.NET & Visual Studio](#net)
 ---
 
 ### Linux
@@ -31,7 +31,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 - [View db deadlock](sql-server/db-deadlock.md)
 - [View foreign keys information & Table Information](sql-server/table-information.md)
 
-### .NET
+### .NET & Visual Studio
 
 - [Start .net core microservices locally - Connect process to Visual Studio debug](dot-net/start-microservices-locally.md)
 
