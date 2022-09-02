@@ -21,6 +21,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### Sql Server
 
+- [View db deadlock](sql-server/db-deadlock.md)
 - [Find text in stored procedures](sql-server/find-text-in-sp.md)
 
 
