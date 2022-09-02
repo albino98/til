@@ -12,7 +12,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 * [Linux](#linux)
 * [Sql Server](#sql-server)
 * [Oracle](#oracle)
-* [.NET & Visual Studio](#net&VisualStudio)
+* [.NET & Visual Studio](#net--Visual-Studio)
 ---
 
 ### Linux
