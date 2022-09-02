@@ -1,6 +1,6 @@
 # TIL
 
-> Today I Learned
+> :memo: Today I Learned
 
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
@@ -10,7 +10,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
 * [Linux](#linux)
-
+* [Sql Server](#sql-server)
 
 ---
 
@@ -19,7 +19,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 - [Check Pc Specs](linux/ubuntu-check-specs.md)
 
 
+### Sql Server
 
+- [Find text in stored procedures](sql-server/find-text-in-sp.md)
 
 
 ## Other TIL Collections
