@@ -21,10 +21,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### Sql Server
 
-- [View db deadlock](sql-server/db-deadlock.md)
-- [Find db columns by data-type](find-db-columns.md)
+- [Find db columns by data-type](sql-server/find-db-columns.md)
 - [Find text in stored procedures](sql-server/find-text-in-sp.md)
-
+- [View db deadlock](sql-server/db-deadlock.md)
 
 ## Other TIL Collections
 
