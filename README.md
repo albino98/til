@@ -25,7 +25,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 - [Find text in stored procedures](sql-server/find-text-in-sp.md)
 - [Stored procedure execution times](sql-server/sp-execution-times.md)
 - [View db deadlock](sql-server/db-deadlock.md)
-- [View foreign keys information & Table Information](sql-server/table-informations.md)
+- [View foreign keys information & Table Information](sql-server/table-information.md)
 
 
 ## License
