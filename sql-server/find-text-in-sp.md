@@ -8,7 +8,7 @@ SELECT DISTINCT
        INNER JOIN
        sys.objects o
          ON m.object_id = o.object_id
- WHERE m.definition Like '%UPDATE BEP_Processes%';
+ WHERE m.definition Like '%text to search for%';
 ~~~
 
 or selecting all columns
@@ -19,5 +19,5 @@ SELECT *
        INNER JOIN
        sys.objects o
          ON m.object_id = o.object_id
- WHERE m.definition Like '%''NO''%';
+ WHERE m.definition Like '%''text to search for''%';
 ~~~
