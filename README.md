@@ -12,6 +12,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 * [Linux](#linux)
 * [Sql Server](#sql-server)
 * [Oracle](#oracle)
+* [.NET](#net)
 ---
 
 ### Linux
@@ -30,6 +31,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 - [View db deadlock](sql-server/db-deadlock.md)
 - [View foreign keys information & Table Information](sql-server/table-information.md)
 
+### .NET
+
+- [Start .net core microservices locally](dot-net/start-microservices-locally.md)
 
 ## License
 
