@@ -34,6 +34,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 ### .NET & Visual Studio
 
 - [Start .net core microservices locally - Connect process to Visual Studio debug](dot-net/start-microservices-locally.md)
+- [Exception Settings - Stop debug when exception occurs](dot-net/exception-settings.md)
 
 ## License
 
