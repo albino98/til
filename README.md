@@ -11,13 +11,16 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 * [Linux](#linux)
 * [Sql Server](#sql-server)
-
+* [Oracle](#oracle)
 ---
 
 ### Linux
 
 - [Check Pc Specs](linux/ubuntu-check-specs.md)
 
+### Oracle
+
+- [Rebuilding unusable indexes](oracle/rebuilding-indexes.md)
 
 ### Sql Server
 
