@@ -6,7 +6,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ---
 
-### Categories
+## Categories
 
 * [C#](#C)
 * [Linux](#linux)
