@@ -8,12 +8,16 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### Categories
 
-
+* [C#](#C)
 * [Linux](#linux)
 * [Sql Server](#sql-server)
 * [Oracle](#oracle)
 * [.NET & Visual Studio](#net--Visual-Studio)
 ---
+
+### C#
+
+- [Parallel Invoke](c-sharp/parallel-invoke.md)
 
 ### Linux
 
