@@ -14,6 +14,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 |  [C#](#C)  | Programming      |
 |  [Linux](#linux)  |  OS       |
 |  [Oracle](#oracle)  |  Database          |
+|  [Python](#python)  |  Programming       |
 |  [Sql Server](#sql-server)  |  Database  |
 |  [.NET & Visual Studio](#net--Visual-Studio)  |  Programming  |
 
@@ -31,6 +32,10 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 ### Oracle
 
 - [Rebuilding unusable indexes](oracle/rebuilding-indexes.md)
+
+### Python
+
+- [Build .exe file](python/build-exe-file.md)
 
 ### Sql Server
 
