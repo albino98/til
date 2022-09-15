@@ -6,13 +6,18 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ---
 
-## Categories
+## Index
 
-* [C#](#C)
-* [Linux](#linux)
-* [Sql Server](#sql-server)
-* [Oracle](#oracle)
-* [.NET & Visual Studio](#net--Visual-Studio)
+
+| Name          | Category      |
+| ------------- | ------------- |
+|  [C#](#C)  | Programming      |
+|  [Linux](#linux)  |  OS       |
+|  [Oracle](#oracle)  |  Database          |
+|  [Sql Server](#sql-server)  |  Database  |
+|  [.NET & Visual Studio](#net--Visual-Studio)  |  Programming  |
+
+
 ---
 
 ### C#
