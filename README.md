@@ -31,6 +31,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### Oracle
 
+- [Modify history Oracle stored procedure](oracle/modify-history-stored-procedure.md)
 - [Rebuilding unusable indexes](oracle/rebuilding-indexes.md)
 
 ### Python
