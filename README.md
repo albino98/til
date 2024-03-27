@@ -51,6 +51,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 - [Start .net core microservices locally - Connect process to Visual Studio debug](dot-net/start-microservices-locally.md)
 - [Exception Settings - Stop debug when exception occurs](dot-net/exception-settings.md)
+- [File app_offline.htm Web application](dot-net/app_offline-file.md)
 
 ## License
 
